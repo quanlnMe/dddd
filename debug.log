@@ -1,0 +1,15 @@
+19-01-13 13:01:46 F:../DrcomClient-ppoe/main.cpp L:32 C:test
+19-01-13 13:01:46 Object::connect: No such slot Drcomauthsvr::getReturn() in ../DrcomClient-ppoe/drcomauthsvr.cpp:20
+19-01-13 13:01:46 F:../DrcomClient-ppoe/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/chair-quan/??/
+19-01-13 13:02:48 F:../DrcomClient-ppoe/main.cpp L:32 C:test
+19-01-13 13:02:48 Object::connect: No such slot Drcomauthsvr::getReturn() in ../DrcomClient-ppoe/drcomauthsvr.cpp:20
+19-01-13 13:02:48 F:../DrcomClient-ppoe/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/chair-quan/??/
+19-01-13 13:02:53 F:../DrcomClient-ppoe/main.cpp L:32 C:test
+19-01-13 13:02:53 Object::connect: No such slot Drcomauthsvr::getReturn() in ../DrcomClient-ppoe/drcomauthsvr.cpp:20
+19-01-13 13:02:53 F:../DrcomClient-ppoe/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/chair-quan/??/
+19-01-13 13:02:58 F:../DrcomClient-ppoe/main.cpp L:32 C:test
+19-01-13 13:02:58 Object::connect: No such slot Drcomauthsvr::getReturn() in ../DrcomClient-ppoe/drcomauthsvr.cpp:20
+19-01-13 13:02:58 F:../DrcomClient-ppoe/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/chair-quan/??/
+19-01-13 13:03:38 F:../DrcomClient-ppoe/main.cpp L:32 C:test
+19-01-13 13:03:38 Object::connect: No such slot Drcomauthsvr::getReturn() in ../DrcomClient-ppoe/drcomauthsvr.cpp:20
+19-01-13 13:03:38 F:../DrcomClient-ppoe/drcomauthsvr.cpp L:101 C:export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/chair-quan/??/
